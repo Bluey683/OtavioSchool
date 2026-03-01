@@ -9,7 +9,6 @@ Graphics: NVIDIA GeForce GTX 750 Ti / AMD Radeon HD 7850 / Intel UHD 620
 DirectX: Version 11
 Storage: 25 GB available space
 
-
 RECOMMENDED:
 
 OS: Windows 11 64-bit
